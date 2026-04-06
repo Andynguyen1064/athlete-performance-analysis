@@ -23,9 +23,6 @@ This project highlights how athlete performance is influenced by multiple factor
 - Tableau
 - CSV
 
-## Dataset
-The dataset contains 1,000 athlete records with variables including sport type, training intensity, sleep hours, fatigue level, recovery index, performance score, and injury risk.
-
 ## Process
 1. Imported the CSV into MySQL Workbench
 2. Cleaned and standardized columns
