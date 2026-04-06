@@ -13,6 +13,10 @@ This project analyzes 1,000 athlete records to explore how sleep, recovery, fati
 ## Conclusion
 This project highlights how athlete performance is influenced by multiple factors beyond a single readiness metric. The findings suggest that stronger performance can coexist with elevated fatigue and lower recovery, reinforcing the importance of monitoring multiple indicators together
 
+![Athlete Performance Dashboard]<img width="1874" height="874" alt="athlete_dashboard png" src="https://github.com/user-attachments/assets/55fa6264-5e79-41f5-bc93-84387877fe2f" />
+
+
+
 ## Tools Used
 - MySQL
 - MySQL Workbench
